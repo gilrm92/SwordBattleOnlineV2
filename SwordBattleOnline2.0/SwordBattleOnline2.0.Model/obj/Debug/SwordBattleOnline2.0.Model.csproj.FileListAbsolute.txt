@@ -1,0 +1,6 @@
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0.Model\bin\SwordBattleOnline.Model.dll.config
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0.Model\bin\SwordBattleOnline.Model.dll
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0.Model\bin\SwordBattleOnline.Model.pdb
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0.Model\obj\Debug\SwordBattleOnline2.0.Model.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0.Model\obj\Debug\SwordBattleOnline.Model.dll
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0.Model\obj\Debug\SwordBattleOnline.Model.pdb

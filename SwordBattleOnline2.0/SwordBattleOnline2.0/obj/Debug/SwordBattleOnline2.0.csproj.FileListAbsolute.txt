@@ -1,0 +1,7 @@
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\bin\MongoDB.dll
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\obj\Debug\SwordBattleOnline2.0.csprojResolveAssemblyReference.cache
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\bin\SwordBattleOnline.Site.dll.config
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\bin\SwordBattleOnline.Site.dll
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\bin\SwordBattleOnline.Site.pdb
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\obj\Debug\SwordBattleOnline.Site.dll
+C:\Users\Gilberto\Desktop\SwordBattleOnlineV2\SwordBattleOnline2.0\SwordBattleOnline2.0\obj\Debug\SwordBattleOnline.Site.pdb
