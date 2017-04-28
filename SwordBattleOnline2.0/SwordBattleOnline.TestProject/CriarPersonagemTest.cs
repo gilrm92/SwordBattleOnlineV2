@@ -32,7 +32,7 @@ namespace SwordBattleOnline.TestProject
         {
             var item = new Item();
             item.Nome = "Espada Iniciante";
-            item.Tipo = "Espada";
+            item.Tipo = Tipo.Espada;
 
             return item;
         }

@@ -13,23 +13,5 @@ namespace SwordBattleOnline.Model.Entitys.Atributos
         }
 
         public int Valor { get; set; }
-
-        //public int Forca { get; set; }
-        //public int Agilidade { get; set; }
-        //public int Resistencia { get; set; }
-        //public int Precisao { get; set; }
-        //public int Vida { get; set; }
-        //public int Energia { get; set; }
-        //public int Fadiga { get; set; }
-        
-        //public int GetForcaDeAtaque() 
-        //{
-        //    return Forca + Agilidade;
-        //}
-
-        //public int GetForcaDeDefesa()
-        //{
-        //    return Agilidade + Resistencia;
-        //}
     }
 }

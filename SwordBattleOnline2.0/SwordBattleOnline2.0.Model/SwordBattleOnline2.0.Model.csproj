@@ -67,6 +67,8 @@
     <Compile Include="Entitys\Atributos\Vida.cs" />
     <Compile Include="Entitys\Equipamento.cs" />
     <Compile Include="Entitys\Item.cs" />
+    <Compile Include="Entitys\Modificadores\Interfaces\IModificador.cs" />
+    <Compile Include="Entitys\Modificadores\ModificadorAtaque.cs" />
     <Compile Include="Entitys\Personagem.cs" />
     <Compile Include="Entitys\User.cs" />
     <Compile Include="Enums\SexoEnum.cs" />

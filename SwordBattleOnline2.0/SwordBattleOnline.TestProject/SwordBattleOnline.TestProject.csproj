@@ -53,6 +53,7 @@
     <Compile Include="CriarPersonagemTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TheFightTest.cs" />
+    <Compile Include="EquipamentoTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SwordBattleOnline2.0.Model\SwordBattleOnline2.0.Model.csproj">

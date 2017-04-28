@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using SwordBattleOnline.Model.Entitys.Atributos;
 using SwordBattleOnline.Model.Interfaces;
+using SwordBattleOnline.Model.Entitys.Modificadores;
 
 namespace SwordBattleOnline.Model.Entitys
 {
@@ -14,14 +15,18 @@ namespace SwordBattleOnline.Model.Entitys
         public SexoEnum Sexo { get; set; }
         public IList<Atributo> Atributos { get; set; }
         public Equipamento Equipamento { get; set; }
+        public IList<Habilidades> Habilidades { get; set; }
 
-        public void AtaqueBasico(Personagem personagem)
+
+        public void AtaqueBasico(Personagem personagemOponente)
         {
-            var FaAtacante = GetValorDeAtributosDoTipo<IForcaAtaque>();
-            var FdDefensor = personagem.GetValorDeAtributosDoTipo<IForcaDefesa>();
+            var faAtacante = GetValorDeAtributosDoTipo<IForcaAtaque>();
+            var fdDefensor = personagemOponente.GetValorDeAtributosDoTipo<IForcaDefesa>();
+            var valorModificadorAtaque = Equipamento.ArmaPrimaria.GetValorModificador<ModificadorAtaque>();
+            faAtacante += valorModificadorAtaque;
 
-            if (FaAtacante > FdDefensor)
-                personagem.RemovePontosDeVida(FaAtacante - FdDefensor);
+            if (faAtacante > fdDefensor)
+                personagemOponente.RemovePontosDeVida(faAtacante - fdDefensor);
         }
 
         private void RemovePontosDeVida(int pontosRemover)
